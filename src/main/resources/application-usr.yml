@@ -1,0 +1,7 @@
+users:
+  - name: "John"
+    age: 23
+    job: "homeless"
+  - name: "Jack"
+    age: 34
+    job: "Housekeeper"
